@@ -1,2 +1,2 @@
-const checkUtils = require('./untils.js')
+const checkUtils = require('./utils')
 checkUtils()
